@@ -4,4 +4,4 @@ This will create a docker image from the Dockerfile, called py-example. List it 
 2. `docker run -p 8080:80 py-example`
 This will start a new container using the above image, list it using `docker ps` command
 
-Access the app over <yourIP>:8080
+Access the app over [yourIP]:8080
